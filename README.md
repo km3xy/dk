@@ -4,7 +4,7 @@
 DeepSeek的官方网站是 
 
 
-https://www.deepseek.com。
+https://www.deepseek.com
 
 
 
@@ -17,6 +17,12 @@ https://chat.deepseek.com
 
 
 纳米ai搜索   DeepSeek   专线可用
+
+
+
+
+
+
 
 
 
