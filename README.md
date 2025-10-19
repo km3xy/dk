@@ -10,9 +10,11 @@ https://github.com/LetsgoNetwork/LetsGo_003?tab=readme-ov-file
 
 快连vpn  官方下载地址
 
-
+视频生成
 
 sora.com
+
+https://sora.chatgpt.com/
 
 
 
